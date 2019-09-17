@@ -1,0 +1,92 @@
+Timestamp;Do you know what Astroquery is?;What do you use Astroquery for?;How long did it take you to learn to use Astroquery (aproximately)?;Have you used Astroquery in a research project;What databases do you most often connect to using Astroquery?;Do you know of other databases that are not yet available through Astroquery?;Which ones?;Do you consider the documentation to be insufficient for connecting to specific databases using Astroquery?;Which databases?;What kind of user are you?;Have you had any trouble using Astroquery?;Please describe your issue using Astroquery here;Have you used Astroquery?
+7/18/2019 17:04:09;No;;;;;;;;;;;;
+7/18/2019 17:08:56;No;;;;;;;;;;;;
+7/18/2019 17:09:43;Yes;To retrieve Gaia data. ;more than a month;Yes;Gaia;No;;Yes;;Graduate Student;Yes;Lack of documentation ;
+7/18/2019 17:11:46;No;;;;;;;;;;;;
+7/18/2019 17:13:05;No;;;;;;;;;;;;
+7/18/2019 17:14:50;Yes;Astrometry on the search for asteroids in PANSTARRS images ;more than a month;Yes;Simbad/Tycho,Hipparcos ;No;;No;;Staff Researcher/Professor;No;;
+7/18/2019 17:21:56;Yes;Search and use data from different caralogues.;Between one and two weeks;Yes;Splatalogue, Irsa;No;;No;;Graduate Student;Yes;The number of rows possible per query and acuracy in the outcome. ;
+7/18/2019 17:30:06;No;;;;;;;;;;;;
+7/18/2019 17:37:00;No;;;;;;;;;;;;
+7/18/2019 17:39:44;No;;;;;;;;;;;;
+7/18/2019 18:25:28;Yes;retrieving data;more than a month;Yes;vizier;Yes;https://github.com/astropy/astroquery/issues?q=is%3Aopen+is%3Aissue+label%3A%22New+Service%22;No;;Staff Researcher/Professor;Yes;https://github.com/astropy/astroquery/issues;
+7/18/2019 18:35:30;No;;;;;;;;;;;;
+7/18/2019 18:36:20;No;;;;;;;;;;;;
+7/18/2019 18:36:43;No;;;;;;;;;;;;
+7/18/2019 19:04:20;No;;;;;;;;;;;;
+7/18/2019 19:08:08;No;;;;;;;;;;;;
+7/18/2019 19:35:11;No;;;;;;;;;;;;
+7/18/2019 19:40:53;No;;;;;;;;;;;;
+7/18/2019 21:34:06;No;;;;;;;;;;;;
+7/18/2019 21:36:52;Yes;cross-matching optical survey catalogs against multiwavelength archives;Less than a week;Yes;ALMA, NRAO, MAST;No;;No;;Graduate Student;Yes;crossmatching against a large catalog is slow, and I have not figured out how to avoid doing it in serial;
+7/18/2019 22:27:09;Yes;Finding and downloading archival data, searching catalogues ;Between one and two weeks;Yes;Vizier, CADC, ESO, MAST;No;;Yes;xMatch, Vizier, CADC;Postdoc;Yes;Often options that exist in the services APIs are not supported by astroquery. Some services (e.g. CADC) do not have consistent interfaces, or require very different approaches for accessing public and proprietary data. ;
+7/18/2019 22:51:36;No;;;;;;;;;;;;
+7/19/2019 1:25:03;No;;;;;;;;;;;;
+7/19/2019 1:30:22;No;;;;;;;;;;;;
+7/19/2019 2:19:52;No;;;;;;;;;;;;
+7/19/2019 4:05:15;No;;;;;;;;;;;;
+7/19/2019 6:27:34;Yes;Query various astronomical catalogs automatically.;Less than a week;No;Sinbad, JPL Horizons;No;N/A;No;N/A;Software Engineer;Yes;Astroquery module did not expose full set of database options available to web users. Filed GitHub PR, was implemented and now works.;
+7/19/2019 9:20:45;No;;;;;;;;;;;;
+7/19/2019 10:35:14;No;;;;;;;;;;;;
+7/19/2019 11:18:14;No;;;;;;;;;;;;
+7/19/2019 11:19:09;No;;;;;;;;;;;;
+7/19/2019 13:36:44;No;;;;;;;;;;;;
+7/19/2019 14:13:31;No;;;;;;;;;;;;
+7/19/2019 18:17:52;No;;;;;;;;;;;;
+7/19/2019 19:36:41;No;;;;;;;;;;;;
+7/19/2019 20:06:58;No;;;;;;;;;;;;
+7/20/2019 16:13:49;No;;;;;;;;;;;;
+7/20/2019 21:35:02;No;;;;;;;;;;;;
+7/22/2019 3:55:58;Yes;mostly Vizier;Less than a week;Yes;Vizier, Gaia;Yes;UHS (Ukirt Hemisphere Survey), VHS (Vista Hemisphere Survey);Yes;;Postdoc;No;;
+7/23/2019 12:41:20;No;;;;;;;;;;;;
+7/23/2019 16:36:57;No;;;;;;;;;;;;
+7/23/2019 16:43:50;Yes;To find stellar properties and determine if ALMA data is available.;Less than a week;Yes;Simbad, ALMA;No;;Yes;Gaia;Postdoc;Yes;I occasionally get some warning about something not loading properly but it still seems to work fine.;
+7/23/2019 16:49:56;No;;;;;;;;;;;;
+7/23/2019 16:52:02;Yes;Gaia data;Less than a week;No;Gaia;No;;Yes;;Postdoc;No;;
+7/23/2019 16:53:49;Yes;Get data from Gaia and Simbaf;Between one and two weeks;Yes;Gaia and Simbad;No;;No;;Graduate Student;No;;
+7/23/2019 16:57:20;Yes;Catalog queries;Less than a week;Yes;TIC catalog;Yes;;Yes;TIC catalog;Postdoc;Yes;Sometimes hangs on queries;
+7/23/2019 17:21:03;Yes;Working with different astronomical databases using python;Between one and two weeks;Yes;Gaia, Simbad, ;No;;Yes;CADC;Staff Researcher/Professor;Yes;For sequential queries, a repeated time.sleep() call is sometimes necessary to avoid timeouts;
+7/23/2019 17:21:30;Yes;Browsing references;Between one and two weeks;Yes;ADS;No;;No;;Staff Researcher/Professor;No;;
+7/23/2019 18:38:14;Yes;Query online data and aggregate information ;Between one and two weeks;Yes;Simbad, Gaia, Vizier ;No;;No;;Postdoc;Yes;"Some error messages are impossible to understand; sometimes difficult to go beyond the examples ";
+7/23/2019 20:03:48;No;;;;;;;;;;;;
+7/23/2019 20:09:45;Yes;star catalog query, asteroids ephemerides, ADS paper search etc;Between one and two weeks;Yes;vizier, jplhorizons, nasa_ads;No;;Yes;vizier and nasa_ads;Graduate Student;Yes;;
+7/23/2019 20:36:05;Yes;Visual inspection of objects from surveys.;Between one and two weeks;Yes;SDSS;No;;No;;Graduate Student;No;;
+7/23/2019 20:36:23;Yes;For querying various catlogs;Less than a week;Yes;2MASS, Various other photometry catlogs, NASA exoplanet archive;Yes;CRTS, ZFT;No;;Postdoc;No;;
+7/23/2019 22:43:01;Yes;I don't use it.;more than a month;No;I don't.;No;;No;;Postdoc;No;;
+7/24/2019 4:53:02;No;;;;;;;;;;;;
+7/24/2019 5:20:52;No;;;;;;;;;;;;
+7/24/2019 6:56:40;No;;;;;;;;;;;;
+7/24/2019 7:59:58;No;;;;;;;;;;;;
+7/24/2019 9:14:28;Yes;SIMBAD lookups;Less than a week;Yes;SIMBAD;No;;No;;Graduate Student;No;;
+7/24/2019 10:06:37;Yes;SIMBAD;Less than a week;Yes;SIMBAD, ESO Archive;Yes;NASA Exoplanet Archive;Yes;ESO Archive;Graduate Student;Yes;Would be nice to have more documentation on the keywords and options, or links to the original website hosting the API;
+7/24/2019 11:48:23;No;;;;;;;;;;;;
+7/24/2019 14:21:10;No;;;;;;;;;;;;
+7/24/2019 16:17:58;No;;;;;;;;;;;;
+7/24/2019 17:00:24;No;;;;;;;;;;;;
+7/24/2019 17:04:53;No;;;;;;;;;;;;
+7/24/2019 17:18:46;No;;;;;;;;;;;;
+7/24/2019 17:27:34;Yes;"Getting photometric data for many sources; getting dust extinction values for many sources ";Less than a week;Yes;IRSA;No;;No;;Graduate Student;No;;Yes
+7/24/2019 17:29:56;Yes;Accessing objects from WISE and NED;Less than a week;Yes;WISE and NED;No;;No;;Graduate Student;Yes;Not always reproducible results;Yes
+7/24/2019 17:41:07;No;;;;;;;;;;;;
+7/24/2019 17:52:09;No;;;;;;;;;;;;
+7/24/2019 18:15:47;Yes;Downloading Hubble data in large batches based on coordinates;Less than a week;Yes;MAST;No;;No;MAST;Undergraduate Student;Yes;Randomly gets stuck retrieving data product lists;Yes
+7/24/2019 18:17:39;Yes;download data from the MAST archive;Less than a week;Yes;MAST;No;;Yes;MAST;Staff Researcher/Professor;No;;Yes
+7/24/2019 18:51:33;No;;;;;;;;;;;;
+7/24/2019 20:29:09;No;;;;;;;;;;;;
+7/24/2019 20:38:00;Yes;A project for a grad class;Between one and two weeks;Yes;SDSS;No;;No;;Graduate Student;No;;Yes
+7/24/2019 20:58:41;No;;;;;;;;;;;;
+7/24/2019 23:27:30;Yes;Searching data archives and downloading data. ;Less than a week;Yes;MAST;No;;No;;Staff Researcher/Professor;No;;Yes
+7/25/2019 1:27:12;No;;;;;;;;;;;;
+7/25/2019 2:08:41;No;;;;;;;;;;;;
+7/25/2019 2:18:05;No;;;;;;;;;;;;
+7/25/2019 5:56:24;Yes;JPL Horizons;Less than a week;Yes;JPL Horizons;Yes;Pan-STARRS DR1, DR2;Yes;Pan-STARRS DR1, DR2;Graduate Student;No;;Yes
+7/25/2019 8:37:00;Yes;When searching archives of big Telescopes.;Between one and two weeks;No;ALMA, ESO, GAIA,SIMBAD (I guess those are modules though);No;;No;Not for those I use...;Postdoc;No;Do you consider the documentation to be insufficient for connecting to specific databases using Astroquery?  Well, I cannot say much, because I don't use it very often...;Yes
+7/25/2019 8:50:10;Yes;Extract informations like coordinates or redshifts from NED and SIMBAD;Less than a week;Yes;SIMBAD and NED;No;;No;;Postdoc;No;;Yes
+7/25/2019 11:11:55;No;;;;;;;;;;;;
+7/25/2019 13:38:04;Yes;Querying Vizier and Simbad;Less than a week;No;Vizier, Simbad;Yes;AAVSO VSX;No;;Amateur astronomer doing variable star work. ;No;;Yes
+7/25/2019 14:27:35;Yes;I haven't used astroquery, maybe I lack knowledge and support about it;Between one and two weeks;No;simbad;No;;No;;Undergraduate Student;No;;No
+7/26/2019 23:08:57;Yes;Vizier and Tap;Less than a week;Yes;2MASS, Gaia DR2 via hand-written TAP queries;Yes;"The last time I tried I had A LOT of trouble with Gaia DR2 (ended up using custom TAP queries; I did appreciate the astroquery tap utils!)";No;;Graduate Student;Yes;I wish I could remember more specific things. Honestly nothing I couldn't patch and move on fairly quickly.;Yes
+7/26/2019 23:47:59;No;;;;;;;;;;;;
+7/27/2019 0:17:50;Yes;For accessing Gaia database;About a month;Yes;Gaia;No;;Yes;;Graduate Student;No;;Yes
+7/27/2019 8:11:19;Yes;SDSS Gaia etc;Less than a week;No;SDSS gaia;Yes;Decals des wise gales many more;Yes;Most;Postdoc;Yes;Missing databases;Yes
+7/30/2019 9:39:41;No;;;;;;;;;;;;
