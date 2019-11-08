@@ -1,0 +1,63 @@
+What do you use Astroquery for?;What databases do you most often connect to using Astroquery?;Please describe your issue using Astroquery here
+data query;gaia;Documentation
+Research;simbad;Tool/Interface
+data query;splatalogue;Time
+data query;vizier;Tool/Interface
+Research;alma;Tool/Interface
+data query;vizier;Time
+data query;simbad;Time
+data query;vizier;Documentation
+data query;simbad;Documentation
+data query;gaia;Tool/Interface
+data query;gaia;Time
+data query;simbad;Tool/Interface
+data query;tic catalog;
+Research;gaia;
+Research;ads;
+Research;simbad;
+data query;vizier;
+data query;sdss;
+data query;2mass;
+data query;simbad;
+Research;simbad;
+data query;irsa;
+data query;wise;
+data query;ned;
+Research;mast;
+Research;mast;
+data query;sdss;
+data query;mast;
+data query;jpl horizons;
+data query;alma;
+data query;simbad;
+data query;vizier;
+data query;simbad;
+;2mass;
+;gaia;
+;sdss;
+;gaia;
+;tycho;
+;irsa;
+;mast;
+;nrao;
+;cadc;
+;jpl horizons;
+;gaia;
+;alma;
+;gaia;
+;simbad;
+;gaia;
+;simbad;
+;gaia;
+;jplhorizons;
+;various other photometry catlogs;
+;eso;
+;eso;
+;ned;
+;simbad;
+;hipparcos;
+;mast;
+;eso;
+;vizier;
+;nasa_ads;
+;nasa exoplanet archive;
