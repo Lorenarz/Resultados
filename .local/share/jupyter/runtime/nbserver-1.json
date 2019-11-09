@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/lorenarz-resultados-vu44b2rh/",
+  "base_url": "/binder/jupyter/user/lorenarz-resultados-6y4vvp5z/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "yfFT4Vn8Q0OmHhvSqVDKsQ",
-  "url": "http://0.0.0.0:8888/user/lorenarz-resultados-vu44b2rh/"
+  "token": "CT3NfCgnTSeG5C4Dji91PA",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/lorenarz-resultados-6y4vvp5z/"
 }
